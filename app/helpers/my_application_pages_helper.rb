@@ -1,0 +1,2 @@
+module MyApplicationPagesHelper
+end
